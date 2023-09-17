@@ -63,7 +63,7 @@
             >Student Name</th
           >
           <th
-            class="px-6 py-3 bg-gray-200 text-gray-600 font-semibold md:w-[15%] w-[35%] rounded-se-xl"
+            class="px-6 py-3 bg-gray-200 text-gray-600 font-semibold md:w-[15%] w-[35%] md:rounded-none rounded-se-xl"
             >Completion Status</th
           >
           <th
