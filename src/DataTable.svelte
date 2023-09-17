@@ -101,6 +101,7 @@
               <a
                 href={entry["Google Cloud Skills Boost Profile URL"]}
                 target="_blank"
+                class="hover:text-green-500 transition-all duration-300 ease-in-out"
               >
                 {entry["Student Name"]}
                 {#if entry["Total Completions of both Pathways"] == "Yes"}
