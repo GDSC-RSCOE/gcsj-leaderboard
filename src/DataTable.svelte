@@ -1,5 +1,5 @@
 <script lang="ts">
-  import jsonData from "./lib/19-sep.json";
+  import jsonData from "./lib/24-sep.json";
   import "./app.css";
   let searchQuery = "";
   let sortByCoursesCompleted = false;
